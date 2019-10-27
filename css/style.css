@@ -1,0 +1,41 @@
+#name {
+    background-color: #4aaaa5;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 10%;
+    height: 50px;
+}
+.navbar {
+    position: relative;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    background-color: grey;
+    height: 50px;
+    width: 100%
+}
+h1 {
+    color: #4aaaa5;
+    margin-left: 20px;
+}
+img {
+    float: left;
+    width: 150px;
+    margin-right: 10px;
+    margin-left: 20px; 
+}
+body {
+    width: 960px;  
+}
+p {
+    margin: left;
+    line-height: 2;
+}
+.links {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+footer {
+    background: #666666;
+}
