@@ -1,4 +1,3 @@
-
 .navbar {
     position: fixed;
     background: #666666;
@@ -24,10 +23,10 @@
     border-color: #666666;
     border-width: 1px;
     border-style: solid;
-    margin-top: 60px;
+    margin-top: 30px;
     margin-left: 138px;
     margin-right: 260px;
-}       
+} 
 .links {
     position: absolute;
     width: 100%;
@@ -39,58 +38,29 @@
     color: white;
     word-spacing: 4px;  
 }
-.about {
+.portfolio {
     color: #4aaaa5;
-    margin-left: 140px;
-}
-.image {
-    float: left;
-    padding: 0px 10px 10px;
-    margin-left: -3px;
-}
-.content {
-    background: #ffffff;
-    overflow: auto;
-    width: 680px;
-    margin-left: 140px;
-    margin-right: 240px;
-    border-color: #dddddd;  
-    image-orientation: left;
-    position: relative;
-} 
-.first {
-    margin-right: 0px;
     margin-left: 138px;
-    margin-top: 0px;
+    margin-top: 56px;
 }
-.second {
-    margin-left: 0px;
-    margin-right: 0px;
+.images {
+    margin-left: 140px;
 }
-.third {
-    margin-left: 0px;
-    margin-right: 0px; 
+.images2 {
+    margin-left: 140px;
 }
 body {
     background-image: url(../images/dot-grid.png);
-}
-.background {
-    background: #ffffff;
-    overflow: auto;
-    width: 760px;
-    margin-left: 130px;
-    margin-right: 240px;
-    border-color: #dddddd;
 }
 .footer {
     background: #666666;
     color: white;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    padding-top: 15px;
     text-align: center;
-    margin-top: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     border-top: 8px #4aaaa5 solid;
-    height: 30px;
+    height: 10px;
     position: fixed;
     left: 0;
     bottom: 0;

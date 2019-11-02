@@ -1,10 +1,12 @@
 .navbar {
-    position: relative;
+    position: fixed;
     background: #666666;
     border: #cccccc;
     width: 100%;
     height: 40px;
     overflow: hidden;
+    left: 0;
+    top: 0;
 }
 .name {
     background-color: #4aaaa5;
@@ -21,7 +23,7 @@
     border-color: #666666;
     border-width: 1px;
     border-style: solid;
-    margin-top: 30px;
+    margin-top: 60px;
     margin-left: 138px;
     margin-right: 260px;
 }       
@@ -40,6 +42,9 @@
     color: #4aaaa5;
     margin-left: 140px;
 }
+body {
+    background-image: url(../images/dot-grid.png);
+}
 .footer {
     background: #666666;
     color: white;
@@ -48,8 +53,9 @@
     text-align: center;
     margin-top: 50px;
     border-top: 8px #4aaaa5 solid;
-    height: 40px;
-    position: absolute;
+    height: 30px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
     width: 100%;
-    overflow: hidden;
-}
+}      
