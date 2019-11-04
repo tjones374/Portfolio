@@ -1,68 +1,34 @@
-.navbar {
-    position: fixed;
-    background: #666666;
-    border: #cccccc;
-    width: 100%;
-    height: 40px;
-    overflow: hidden;
-    left: 0;
-    top: 0;
-}
-.name {
-    background-color: #4aaaa5;
-    color: white;
-    position: absolute;
-    font-family: Georgia, Times, "Times New Roman", serif;
-    text-align: center;
-    bottom: -22px;
-    margin-left: 138px;
-    width: 19%;
-    height: 40px;
+.card {
+  background-color: #4aaaaf;
+  margin: 0;
+  padding: 0;
+  display: inline;
 }
 .border {
-    border-color: #666666;
-    border-width: 1px;
-    border-style: solid;
-    margin-top: 30px;
-    margin-left: 138px;
-    margin-right: 260px;
-} 
-.links {
-    position: absolute;
-    width: 100%;
-    height: 40px;
-    bottom: 0;
-    right: 0;
-    top: 15px;  
-    left: 707px;
-    color: white;
-    word-spacing: 4px;  
+  border-color: #666666;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
-.portfolio {
-    color: #4aaaa5;
-    margin-left: 138px;
-    margin-top: 56px;
-}
-.images {
-    margin-left: 140px;
-}
-.images2 {
-    margin-left: 140px;
+h1 {
+  color: #4aaaa5;
 }
 body {
-    background-image: url(../images/dot-grid.png);
+  background-image: url(../images/dot-grid.png);
 }
 .footer {
-    background: #666666;
-    color: white;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    text-align: center;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-top: 8px #4aaaa5 solid;
-    height: 10px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-}      
+  background: #666666;
+  color: white;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-top: 8px #4aaaa5 solid;
+  height: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
