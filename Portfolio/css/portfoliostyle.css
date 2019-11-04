@@ -1,0 +1,34 @@
+.card {
+  background-color: #4aaaaf;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+.border {
+  border-color: #666666;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+h1 {
+  color: #4aaaa5;
+}
+body {
+  background-image: url(../images/dot-grid.png);
+}
+.footer {
+  background: #666666;
+  color: white;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-top: 8px #4aaaa5 solid;
+  height: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
