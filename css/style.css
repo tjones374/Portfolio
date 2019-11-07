@@ -1,3 +1,13 @@
+.nav-item {
+  float: right;
+}
+.container-fluid {
+  padding: 0;
+}
+.navbar-nav {
+  padding-left: 700px;
+}
+
 h1 {
   color: #4aaaaf;
   margin: 15px;
