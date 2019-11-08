@@ -1,6 +1,6 @@
-/* .navbar {
+.navbar {
   margin-left: 96px;
-} */
+}
 .nav-item {
   float: right;
 }
@@ -15,6 +15,9 @@
   margin: 0;
   padding: 0;
   display: inline;
+}
+.card-img-top {
+  width: 0;
 }
 .border {
   border-color: #666666;
@@ -38,10 +41,11 @@ body {
   text-align: center;
   padding-top: 15px;
   padding-bottom: 15px;
-  border-top: 8px #4aaaa5 solid;
+  margin-top: 30px;
+  border-top: 8px #4aaaaf solid;
   height: 10px;
   position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: 0px;
   width: 100%;
 }

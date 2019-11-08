@@ -1,3 +1,6 @@
+.navbar {
+  margin-left: 96px;
+
 .nav-item {
   float: right;
 }
@@ -25,13 +28,14 @@ body {
   background: #666666;
   color: white;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  padding-top: 15px;
   text-align: center;
-  margin-top: 100px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 30px;
   border-top: 8px #4aaaaf solid;
-  height: 30px;
+  height: 10px;
   position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: 0px;
   width: 100%;
 }
