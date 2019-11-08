@@ -4,6 +4,7 @@
 
 .container-fluid {
   padding: 0;
+  display: outside;
 }
 
 .navbar-nav {
@@ -31,9 +32,9 @@ body {
   color: white;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   text-align: center;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  margin-top: 30px;
+  padding-top: 7px;
+  padding-bottom: 20px;
+  margin-top: auto;
   border-top: 8px #4aaaaf solid;
   height: 10px;
   position: fixed;
